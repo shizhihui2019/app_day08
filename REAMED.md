@@ -1,6 +1,4 @@
 day08
 
-abc
-
-123
+abcd
 
